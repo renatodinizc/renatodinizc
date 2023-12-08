@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer
+I'm a Software Engineer<br/>
 Recife, Brasil 🇧🇷
 
 ![lpicanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatodinizc&count_private=true&show_icons=true&theme=nightowl)
