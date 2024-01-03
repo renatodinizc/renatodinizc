@@ -3,10 +3,6 @@
 I'm a Software Engineer<br/>
 Recife, Brasil 🇧🇷
 
-![lpicanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatodinizc&count_private=true&show_icons=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatodinizc&langs_count=8&layout=compact&theme=nightowl&hide=HTML,Jupyter+Notebook,CSS&exclude_repo=grails,stackoverflow-java-sdk,github-readme-stats,github-readme-stats-site,nostr-relay-registry,nostr-gateway,swagger-ui)
-
-
 <!--
 **renatodinizc/renatodinizc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
